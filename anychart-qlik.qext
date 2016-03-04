@@ -1,0 +1,9 @@
+{
+	"name": "AnyChart-Qlik",
+	"description": "Bar Chart from the AnyChart Library",
+	"icon": "bar-chart-vertical",
+	"type": "visualization",
+	"version": 1,
+	"preview": "bar",
+	"author": "Johannes Sunden"
+}

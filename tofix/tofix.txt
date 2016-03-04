@@ -1,0 +1,11 @@
+1. Tooltip stuck
+
+2. Clip-Path overflowing in Firefox & Chrome - Done
+
+3. When using multiple charts and cancelling selection - convert to other chart type	- Done
+
+4. Select dates - handle different formats	- Done
+
+5. Use Measure formatting for presenting the data
+
+6. Fix when selecting a theme - not shown as selected value
