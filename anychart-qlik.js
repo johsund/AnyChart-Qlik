@@ -172,7 +172,7 @@ define( ["jquery", "./js/anychart.min", "js/qlik","./js/senseUtils", "./library/
 				}				
 					
 					
-				//var viz = window['viz' + layout.qInfo.qId]();
+				
 					
 				if (layout.chart != lastUsedChart) {
 					// Determine URL based on chart selection
