@@ -1,3 +1,16 @@
+# Update- AnyChart has released the first version of an extension for Qlik Sense - https://github.com/AnyChart/AnyChart-Qlik
+You can find it on Qlik Branch here: http://branch.qlik.com/#!/project/58cf59cd61d353a813f4a37e
+Contact the AnyChart team: contact@anychart.com
+
+I will not continue development on this version of the extension any further and recommend all interested visitors to use the official extension above!
+
+Thank you!
+
+//Johannes
+
+
+
+
 # AnyChart-Qlik
 Wrapping in the AnyChart JS Viz library as Qlik Sense objects
 
